@@ -1,13 +1,12 @@
 # Site settings
 title:          Hiariz1
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
-url:            https://github.com/inelaah/rain
+description:    "Here is Hiariz Page."
+url:            https://github.com/hiariz1
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Hiariz
+  email:        pdas0343@gmail.com
 
 # Build settings
 markdown:       kramdown
